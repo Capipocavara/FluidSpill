@@ -1,0 +1,18 @@
+{
+    "name": "SLiquidVR.Editor",
+    "rootNamespace": "SLiquidVR",
+    "references": [
+        "GUID:8d063c4c73f4a8c4d9e44013939eb876"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
