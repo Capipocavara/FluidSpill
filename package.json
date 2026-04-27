@@ -1,6 +1,6 @@
 {
   "name": "de.capipocavara.liquidspill",
-  "displayName": "LiquidSpill",
+  "displayName": "Liquid Spill",
   "description": "VR ready fluid simulation for Unity",
   "version": "0.1.0",
   "unity": "6000.4",
