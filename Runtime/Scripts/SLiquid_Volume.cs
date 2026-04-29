@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace SLiquid
+namespace FluidSpill
 {
     [RequireComponent(typeof(Collider)), RequireComponent(typeof(MeshRenderer)), RequireComponent(typeof(SLiquid_Slosher))]
     public class SLiquid_Volume : MonoBehaviour

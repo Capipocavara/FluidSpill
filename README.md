@@ -1,4 +1,4 @@
-# Liquid Spill
+# Fluid Spill
 
 ### Description
 
@@ -12,6 +12,6 @@ Open Unity and navigate to:
 
 Enter into URL field:
 
-	https://github.com/Capipocavara/LiquidSpill.git
+	https://github.com/Capipocavara/FluidSpill.git
 
 Supported versions: 6000.4+ (Universal Renderpipeline)

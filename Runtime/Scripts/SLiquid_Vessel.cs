@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace SLiquid
+namespace FluidSpill
 {
     public class SLiquid_Vessel : MonoBehaviour
     {

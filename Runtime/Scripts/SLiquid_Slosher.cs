@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Animations;
 
-namespace SLiquid
+namespace FluidSpill
 {
     public class SLiquid_Slosher : MonoBehaviour
     {

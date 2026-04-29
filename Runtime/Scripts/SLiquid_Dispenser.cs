@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace SLiquid
+namespace FluidSpill
 {
     [RequireComponent(typeof(ParticleSystem))]
     public class SLiquid_Dispenser : MonoBehaviour

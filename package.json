@@ -1,6 +1,6 @@
 {
-  "name": "de.capipocavara.liquidspill",
-  "displayName": "Liquid Spill",
+  "name": "de.capipocavara.fluidspill",
+  "displayName": "Fluid Spill",
   "description": "VR ready fluid simulation for Unity",
   "version": "0.1.0",
   "unity": "6000.4",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Capipocavara/LiquidSpill.git"
+    "url": "git@github.com:Capipocavara/FluidSpill.git"
   },
   "keywords": [
     "VR",

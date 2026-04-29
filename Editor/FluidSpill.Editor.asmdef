@@ -1,6 +1,6 @@
 {
-    "name": "LiquidSpill.Editor",
-    "rootNamespace": "LiquidSpill",
+    "name": "FluidSpill.Editor",
+    "rootNamespace": "FluidSpill",
     "references": [
         "GUID:d4e9b9695c6ec404291f2e5095939957"
     ],

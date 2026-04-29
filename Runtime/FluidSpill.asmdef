@@ -1,6 +1,6 @@
 {
-    "name": "LiquidSpill",
-    "rootNamespace": "LiquidSpill",
+    "name": "FluidSpill",
+    "rootNamespace": "FluidSpill",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
